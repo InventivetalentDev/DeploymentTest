@@ -6,7 +6,7 @@
 
     <groupId>org.inventivetalen.test</groupId>
     <artifactId>jenkins-deployment-test</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
 
 
 </project>
